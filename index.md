@@ -95,7 +95,6 @@ __SUPINFO, Toulouse__
 ## Certification
 
 `December 2019`
-Malmö
 
 - Certified Jenkins Engineer
 
